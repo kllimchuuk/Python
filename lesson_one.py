@@ -1,4 +1,4 @@
-number = 10
+#number = 10
 
 # assign value to site_name variable
 #site_name = 'programiz.pro'
