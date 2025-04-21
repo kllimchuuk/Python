@@ -58,7 +58,3 @@ def contains(element: Union[int, str], num: List[Union[int, str, list]]) -> bool
         print(e)
         return False
 
-
-print("contains(55, [11, [25, [36, 4], [99]], 55]):", contains(55, [11, [25, [36, 4], [99]], 55]))
-print("contains(19, [11, [25, [36, 4], [99]], 55]):", contains(19, [11, [25, [36, 4], [99]], 55]))
-print("contains('apple', [1, ['orange', 'apple'], 'banana']):", contains("apple", [1, ['orange', 'apple'], 'banana']))
